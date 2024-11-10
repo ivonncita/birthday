@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&family=Poetsen+One&family=Rubik+Gemstones&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&family=Poetsen+One&family=Rubik+Distressed&family=Rubik+Gemstones&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&family=Henny+Penny&family=Kablammo&family=Poetsen+One&family=Rubik+Distressed&family=Rubik+Gemstones&display=swap');
+h2 {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    background-color: darkolivegreen;
+}
+h1 {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    
+}
+
+h3 {
+    font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-size: 60px;
+  color:burlywood; 
+  
+}
+
+#imagen {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foto {
+    border-radius: 100px;
+}
+
+h1{
+    font-family: "Henny Penny", system-ui;
+    font-size: 100px;
+    color:burlywood ;
+   
+}
+    
+body{
+    border-width: 150px;
+    border-style: solid;
+    border-image: url(fondo.jpg) 30 round;
+}
+#lista{
+    font-family: "Henny Penny", system-ui;
+    font-size: 50px;
+    color:burlywood 
+}
+#video{
+    font-family: "Henny Penny", system-ui;
+    font-size: 100px;
+    color:burlywood 
+}
