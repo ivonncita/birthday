@@ -31,11 +31,18 @@ h3 {
 #imagen {
     width: 100%;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+  
+    justify-content: center;
 }
 .foto {
     border-radius: 100px;
+    margin-right: 10;
+    justify-items: right;
+}
+.foto2 {
+    border-radius: 100px;
+    margin-right: 10;
+    justify-items: left;
 }
 
 h1{
