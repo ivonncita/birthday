@@ -44,6 +44,11 @@ h3 {
     margin-right: 10;
     justify-items: left;
 }
+.foto3 {
+    border-radius: 100px;
+    margin-right: 10;
+    justify-items: left;
+}
 
 h1{
     font-family: "Henny Penny", system-ui;
